@@ -103,6 +103,11 @@ header a{
     color: #FF4A5E;
     text-decoration: none;
 }
+.ctext{
+    display: inline-block;
+    text-align: left;
+    width: 400px
+}
 
 
 /*-------About-----------*/
@@ -194,7 +199,7 @@ footer p{
             
     }
     .works{
-        margin: 0px auto 20% auto;
+        margin: 0% auto 20% auto;
     }
     .works h1{
         font-size: 30px;
@@ -225,4 +230,9 @@ footer p{
         width:90%;
         margin: 60px auto;
     }
+    .ctext{
+    display: inline-block;
+    text-align: left;
+    width: 270px
+}
 }
